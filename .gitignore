@@ -1,5 +1,4 @@
 .eunit
-deps
-*.o
-*.beam
-*.plt
+ebin/*.beam
+test/*.beam
+logs
